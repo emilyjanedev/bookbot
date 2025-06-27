@@ -18,7 +18,10 @@
    ```
 
 2. Run the program from your terminal:
-   `python3 main.py <path_to_book>`
+
+   ```bash
+   python3 main.py <path_to_book>
+   ```
 
    Replace `<path_to_book>` with the relative or absolute path to your `.txt` file.
 
