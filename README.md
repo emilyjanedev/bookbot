@@ -20,7 +20,7 @@
 2. Run the program from your terminal:
    `bash python3 main.py <path_to_book>`
 
-   Replace `<path_to_book>` with the relative or absolute path to your .txt file.
+   Replace `<path_to_book>` with the relative or absolute path to your `.txt` file.
 
    For example:
    `bash python3 main.py books/frankenstein.txt`
